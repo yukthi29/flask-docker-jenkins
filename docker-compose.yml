@@ -1,0 +1,11 @@
+services:
+  flaskapp:
+    image: flaskapp
+    ports:
+      - "5000:5000"
+
+
+
+
+
+
